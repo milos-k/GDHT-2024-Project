@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Blueprints/Vehicles/Flower_Car/Meshes/SM_Flower_Car.uasset
